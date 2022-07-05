@@ -22,3 +22,8 @@ How to work and communicate with a team.
 How to be more efficient and productive at the same time.
 Here we get to know how the team works, how to keep cool even under pressure conditions, and how to keep myself and my teammates motivated throughout the ups and downs.
 
+ScreenShort of Some Pages From Project
+
+Home page
+<img src = "images/img1.png">
+
