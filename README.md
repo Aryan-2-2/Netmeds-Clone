@@ -27,3 +27,11 @@ ScreenShort of Some Pages From Project
 Home page
 <img src = "images/img1.png">
 
+<br>
+Product Page
+<img src = "images/img2.png">
+
+<br>
+Payment Page
+<img src = "images/img3.png">
+
